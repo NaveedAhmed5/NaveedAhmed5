@@ -11,7 +11,7 @@ I am a versatile Developer and AI Enthusiast with a passion for building scalabl
 - **Languages**: JavaScript, Python, Java, SQL, C++
 - **Web**: Node.js, Express.js, HTML5, CSS3, Vanilla JS
 - **AI/ML**: TensorFlow, PyTorch, YOLOv8, U-Net, Jupyter Notebooks
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, Firebase
 - **Tools**: Git, GitHub, LaTeX, VS Code, Android Studio
 
 ### How to reach me:
