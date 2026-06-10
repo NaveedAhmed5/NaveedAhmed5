@@ -27,5 +27,3 @@ A dedicated **Software Developer** and **AI Enthusiast** focused on building sca
 - **Email:** [naveedahmedbajwa2@gmail.com](mailto:naveedahmedbajwa2@gmail.com)
 
 ---
-
-⚡ *Fun Fact: I firmly believe that code is poetry, and clean code is just as important as functional code. If it isn't scannable, it isn't finished.*
