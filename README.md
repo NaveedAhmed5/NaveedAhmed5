@@ -1,23 +1,23 @@
-# Hi there, I'm Naveed Ahmed! 
+Naveed Ahmed
+A dedicated Software Developer and Artificial Intelligence Specialist with a strong foundation in building scalable web applications, deploying deep learning architectures, and crafting intuitive mobile experiences. Proven track record in bridging the gap between complex backend logic and user-centric frontends, with a strong emphasis on writing clean, maintainable code.
 
-I am a versatile Developer and AI Enthusiast with a passion for building scalable web applications, exploring Deep Learning architectures, and diving into the world of Cybersecurity. I enjoy bridging the gap between complex backend logic and intuitive user experiences.
+Key Areas of Expertise
+Enterprise Web Development: Designing and engineering robust, scalable platforms, such as a comprehensive Corporate Vendor & Contract Management System.
 
-### What I'm working on:
-- **Web Development**: Building robust systems like the *Corporate Vendor & Contract Management System*.
-- **AI & Deep Learning**: Experimenting with NLP (Urdu Poetry Generation) and Computer Vision (YOLOv8, U-Net).
-- **Android Development**: Crafting custom launchers and mobile experiences.
+Artificial Intelligence & Deep Learning: Implementing advanced Computer Vision models (YOLOv8, U-Net) and exploring Natural Language Processing architectures, including custom Urdu poetry generation models.
 
-### Tech Stack:
-- **Languages**: JavaScript, Python, Java, SQL, C++
-- **Web**: Node.js, Express.js, HTML5, CSS3, Vanilla JS
-- **AI/ML**: TensorFlow, PyTorch, YOLOv8, U-Net, Jupyter Notebooks
-- **Databases**: MySQL, PostgreSQL, Firebase
-- **Tools**: Git, GitHub, LaTeX, VS Code, Android Studio
+Mobile Application Engineering: Developing tailored Android applications and custom launcher environments focused on optimized performance and seamless user experiences.
 
-### How to reach me:
-- **Email**: [naveedahmedbajwa2@gmail.com]
-- **Social**: [www.instagram.com/naveedbajwah54]
----
+Technical Proficiency
+Languages: Python, JavaScript, Java, C++, SQL
 
-### Fun Fact:
-I believe that clean code is just as important as functional code. When I'm not coding, you can find me analyzing deep learning models or participating in CTFs!
+Web Technologies: Node.js, Express.js, HTML5, CSS3, Vanilla JS
+
+AI/ML Frameworks: TensorFlow, PyTorch, YOLOv8, U-Net, Jupyter Notebooks
+
+Database Management: MySQL, PostgreSQL, Firebase
+
+Development Tools: Git, GitHub, VS Code, Android Studio, LaTeX
+
+Contact & Professional Networks
+Email: [naveedahmedbajwa2@gmail.com]
