@@ -60,5 +60,3 @@ If your company or startup wants to incorporate custom AI assistants, automated 
 I am open to contract work, technical roles, and collaboration with teams integrating AI into their products.
 
 - **Email:** [naveedahmedbajwa2@gmail.com](mailto:naveedahmedbajwa2@gmail.com)
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://linkedin.com)
-- **GitHub:** [github.com/NaveedAhmed5](https://github.com/NaveedAhmed5)
